@@ -2,7 +2,7 @@
 
 ## OUTPUT
 
-```
+```sql
 SQL> select * from bill;
 
        SSN      MONTH       YEAR     AMOUNT

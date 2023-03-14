@@ -2,7 +2,7 @@
 
 ## OUTPUT
 
-```
+```sql
 SQL> update bill set month=3;
 bill of the month
 customer name: hari
